@@ -1,0 +1,30 @@
+html {
+    background-color: #7CFC00
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Kanit', sans-serif;
+    background-color: rgb(255, 102, 0);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1{
+    margin: 0;
+    font-size: 60px;
+    padding: 20px 0;
+    color: rgb(255, 230, 0);
+    font-family: 'Kanit', sans-serif;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
